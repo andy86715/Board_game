@@ -1,2 +1,20 @@
-# Board_game
-桌遊題目產生器, Board game question generator
+# 桌遊題目產生器
+Board game question generator
+
+適用需要畫畫的桌遊遊戲 Ex. 傳情畫意(Telestration)、妙筆神猜(Pictomania)....<br>
+可不斷產生題目，不需借助題目遊戲卡<br>
+題目可自行新增修改<br>
+
+## 共有三種模式
+
+### - 全隨機抽取題目
+
+所有類別隨機抽取
+
+### - 隨機抽取同一類別題目
+
+抽取後的欄位皆為同一類別屬性
+
+### - 指令類別抽取題目
+
+自行輸入想玩的題目類型，再進行抽取
